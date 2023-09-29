@@ -1,4 +1,3 @@
 #!/bin/bash
 chmod u+x bash/alx
-echo "ALX"
-
+echo "ALX School"

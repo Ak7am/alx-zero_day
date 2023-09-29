@@ -1,4 +1,3 @@
 #!/bin/bash
 chmod u+x bash/school
-echo "School"
-
+echo  "The school is open!"
