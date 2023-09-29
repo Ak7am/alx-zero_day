@@ -1,4 +1,5 @@
 #!/bin/bash
 chmod u+x bash/alx
-echo "ALX"
+echo "ALx School is so cool!"
+
 
